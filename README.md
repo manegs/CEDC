@@ -66,3 +66,4 @@ Generate code coverage report:
 ```sh
    ./gradlew jacocoTestReport
 ```
+![img.png](img.png)
